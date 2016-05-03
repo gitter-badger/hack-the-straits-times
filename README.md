@@ -17,6 +17,8 @@
 
 # Hack the News Activity
 
+[![Join the chat at https://gitter.im/debbiediscovers/hack-the-straits-times](https://badges.gitter.im/debbiediscovers/hack-the-straits-times.svg)](https://gitter.im/debbiediscovers/hack-the-straits-times?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Learners will use X-Ray Goggles to remix a news website, learning about **openly-licensed resources, different forms of media, and how to create something new on the Web through remix.**
 
 It lasts about 45 minutes to a hour.
